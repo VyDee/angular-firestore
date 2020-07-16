@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~10.0.3",
     "@angular/platform-browser-dynamic": "~10.0.3",
     "@angular/router": "~10.0.3",
+    "angularfire2": "^5.4.2",
+    "firebase": "^7.16.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "materialize-css": "^1.0.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"

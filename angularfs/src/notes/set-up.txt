@@ -1,0 +1,6 @@
+FYI: https://github.com/angular/angularfire/blob/master/docs/install-and-setup.md
+Setup project, install css, jquery, font-awesome
+    >> npm install --save materialize-css jquery font-awesome
+
+Setup firebase
+    >> npm install --save firebase angularfire2
